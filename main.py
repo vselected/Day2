@@ -38,3 +38,6 @@ print(num_list)
 # Note that the order and number of items doesn't matter.
 
 list = [1, "String", 2.342]
+
+# Dictionaries
+# {"key1":"value1", "key2":"value2"}
